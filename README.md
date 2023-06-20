@@ -1,1 +1,5 @@
 # ETL
+
+I worked at a data architecture startup to shift data from on-premises servers to a data lake using Azure cloud services. Used databricks to transform raw data into structured data and load it into PowerBI in order to gain insights from the dashboard. Analysed processes and debugged issues on the Synapse pipeline, which resulted in the automation of the ETL process with SQL. The ETL incremental load feature was implemented, and the entire data warehousing process was streamlined using Synapse. Transformed data for analytical or operational purposes is used for financial modelling using PySpark on Azure Databricks. built a system for collecting, manipulating, and transforming raw data from an on-premise server to an Azure cloud lake. Implemented incremental load that performs delta between target. Developed ETL automation to reduce incremental load time from 4 hours to 44 minutes, saving 82 percent of time
+
+![image](https://github.com/abhaymadan/ETL/assets/47034785/6308732b-82c6-49a0-96f5-dc69ede70541)
